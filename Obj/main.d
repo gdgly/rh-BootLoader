@@ -1,0 +1,15 @@
+.\Obj\main.o: app\main.c
+.\Obj\main.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\main.o: .\CM3\stm32f10x.h
+.\Obj\main.o: .\CM3\core_cm3.h
+.\Obj\main.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\main.o: .\CM3\system_stm32f10x.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_conf.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Obj\main.o: .\CM3\stm32f10x.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Obj\main.o: .\bsp\bsp.h
+.\Obj\main.o: .\FWlib\inc\stm32f10x_flash.h
+.\Obj\main.o: .\FWlib\inc\misc.h
+.\Obj\main.o: app\flash.h
+.\Obj\main.o: app\updata.h

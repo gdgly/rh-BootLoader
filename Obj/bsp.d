@@ -1,0 +1,12 @@
+.\Obj\bsp.o: bsp\bsp.c
+.\Obj\bsp.o: bsp\bsp.h
+.\Obj\bsp.o: .\CM3\stm32f10x.h
+.\Obj\bsp.o: .\CM3\core_cm3.h
+.\Obj\bsp.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\bsp.o: .\CM3\system_stm32f10x.h
+.\Obj\bsp.o: .\FWlib\inc\stm32f10x_conf.h
+.\Obj\bsp.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Obj\bsp.o: .\CM3\stm32f10x.h
+.\Obj\bsp.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Obj\bsp.o: .\FWlib\inc\stm32f10x_flash.h
+.\Obj\bsp.o: .\FWlib\inc\misc.h

@@ -1,0 +1,13 @@
+.\Obj\updata.o: app\updata.c
+.\Obj\updata.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\updata.o: D:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\Obj\updata.o: app\updata.h
+.\Obj\updata.o: .\CM3\stm32f10x.h
+.\Obj\updata.o: .\CM3\core_cm3.h
+.\Obj\updata.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\updata.o: .\CM3\system_stm32f10x.h
+.\Obj\updata.o: .\FWlib\inc\stm32f10x_conf.h
+.\Obj\updata.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Obj\updata.o: .\CM3\stm32f10x.h
+.\Obj\updata.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Obj\updata.o: app\flash.h
